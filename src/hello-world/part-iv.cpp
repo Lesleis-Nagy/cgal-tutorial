@@ -7,7 +7,7 @@
 #include <CGAL/Exact_predicates_inexact_constructions_kernel.h>
 #include <CGAL/convex_hull_2.h>
 
-// In this example we'll use a kernel that provides exact geometric  predecates
+// In this example we'll use a kernel that provides exact geometric predecates
 // but inexact geometric constructions.
 
 typedef CGAL::Exact_predicates_inexact_constructions_kernel Kernel;
