@@ -1,1 +1,1 @@
-add_subdirectory(hello-world)
+add_subdirectory(01-first-steps)

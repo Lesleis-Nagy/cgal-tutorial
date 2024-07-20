@@ -21,4 +21,3 @@ target_link_libraries(part-vi PUBLIC CGAL::CGAL)
 
 add_executable(part-vii part-vii.cpp)
 target_link_libraries(part-vii PUBLIC CGAL::CGAL)
-
