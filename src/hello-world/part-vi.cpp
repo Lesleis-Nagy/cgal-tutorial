@@ -84,11 +84,6 @@ int main(int argc, char *argv[]) {
 
 }
 
-
-
-
-
-
 // References
 // 1. https://doc.cgal.org/latest/Convex_hull_2/group__PkgConvexHull2Functions.html#ga8241d43969ff61cb9be46811c2e9e176
 // 2. https://doc.cgal.org/latest/Convex_hull_2/classConvexHullTraits__2.html
