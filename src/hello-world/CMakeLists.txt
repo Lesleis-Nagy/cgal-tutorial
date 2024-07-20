@@ -1,6 +1,7 @@
 add_executable(part-i part-i.cpp
         part-iv.cpp
-        part-v.cpp)
+        part-v.cpp
+        part-vii.cpp)
 target_link_libraries(part-i PUBLIC CGAL::CGAL)
 
 add_executable(part-ii part-ii.cpp)
@@ -17,3 +18,7 @@ target_link_libraries(part-v PUBLIC CGAL::CGAL)
 
 add_executable(part-vi part-vi.cpp)
 target_link_libraries(part-vi PUBLIC CGAL::CGAL)
+
+add_executable(part-vii part-vii.cpp)
+target_link_libraries(part-vii PUBLIC CGAL::CGAL)
+
